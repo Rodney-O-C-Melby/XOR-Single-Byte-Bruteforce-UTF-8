@@ -10,8 +10,9 @@ The program encrypts each message with the key 'R' and then performs an XOR bitw
 Example execution
 <code>
 python xor-bruteforce.py
-
-Cleartext Message: Single Byte XOR encryption and decryption example python 3.7
+</code>
+<code>
+Cleartext Message: Single Byte XOR encryption and decryption example python 3.7\n
 Encryption Key: R
 Encrypted Message: ;<5>7r+&7r
 r7<1 +"&;=<r3<6r671 +"&;=<r7*3?">7r"+&:=<ra|e
@@ -21,7 +22,7 @@ Decrypted Message: Single Byte XOR encryption and decryption example python 3.7
 Decryption Success.
 
 Brute Force ASSCII chars and print valid results:
-
+</code>
 70 G}zsxq4Vm`q4L[F4qzwfmd`}{z4uzp4pqwfmd`}{z4qluydxq4dm`|{z4':#
 71 F|{ryp5Wlap5MZG5p{vglea|z{5t{q5qpvglea|z{5pmtxeyp5ela}z{5&;"
 75 Jpw~u|9[`m|9AVK9|wzk`impvw9xw}9}|zk`impvw9|axtiu|9i`mqvw9*7.
