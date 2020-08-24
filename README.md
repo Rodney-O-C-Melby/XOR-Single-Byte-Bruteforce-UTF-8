@@ -1,7 +1,7 @@
 # XOR-Single-Byte-Bruteforce-UTF-8
 Brute force Strings using XOR, chosen key of length one, and UTF-8 encoding.
 
-Single Byte XOR Calculator - no error checking or unit tests
+Written for a CTF - Single Byte XOR Calculator - no error checking or unit tests
 
 Depends: Python 3.7
 
